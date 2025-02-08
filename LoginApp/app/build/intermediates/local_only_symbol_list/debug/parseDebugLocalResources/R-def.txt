@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Loginbtn
+id buttonLogin
+id buttonSignUp
+id editTextConfirmPassword
+id editTextEmail
+id editTextName
+id editTextPassword
+id textForgotPassword
+id textSignUp
+layout activity_main
+layout activity_sign_up
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.LoginApp
+style Theme.LoginApp
+xml backup_rules
+xml data_extraction_rules
